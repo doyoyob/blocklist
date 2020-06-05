@@ -2,6 +2,5 @@
 
 Pi-Hole blocklist
 
-listXX --- 1 million host
+1.8 million host
 
-hostXX --- 5 million host
